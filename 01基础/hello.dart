@@ -47,9 +47,15 @@ void main(List<String> args) {
 
   /** Dart数据类型 数值类型 */
   // 1.int
-  int a = 123;
-  print(a);
+  // int a = 123;
+  // print(a);
   // 2.double
-  double b = 23.5;
-  print(b);
+  // double b = 23.5;
+  // print(b);
+  //运算符 + - * / %
+  // bool 值 true false
+  // bool flag = true;
+  // print(flag);
+  // bool flag2 = false;
+  // print(flag2);
 }
